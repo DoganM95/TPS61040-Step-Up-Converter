@@ -1,5 +1,8 @@
 # Intro
-This project contains an Eagle designed PCB for an SOT-23 sized step-up converter named TPS61040 with the following properties:
+
+Eagle designed PCB for the SOT-23 sized step-up converter IC TPS61040.
+
+## Specs (general)
 
 - 1.8V - 6V input
 - 1.8V - 28V adj. output Voltage
