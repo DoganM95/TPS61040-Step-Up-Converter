@@ -29,6 +29,7 @@ out power @ 3.0V in
 13.87V loadless -> 13.8V (dropeed to) @ 100mA
 12.00V loadless -> 11.8V @ 100 mA
 9.00V loadless -> 8.8V @ 100 mA
+6.0V loadless -> 5.8V @ 100mA
 5.0V loadless -> 4.7V @ 100mA
 3.3V lodless -> 3.0V @ 100mA
 
