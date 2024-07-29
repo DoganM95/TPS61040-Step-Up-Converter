@@ -22,6 +22,17 @@ Eagle designed PCB for the SOT-23 sized step-up converter IC TPS61040.
   </tr>
 </table>
 
+
+out range 2.93V - 13.87V
+
+out power @ 3.0V in
+13.87V loadless -> 13.8V (dropeed to) @ 100mA
+12.00V loadless -> 11.8V @ 100 mA
+9.00V loadless -> 8.8V @ 100 mA
+5.0V loadless -> 4.7V @ 100mA
+3.3V lodless -> 3.0V @ 100mA
+
+
 ## Schematic
 
 ![image](https://github.com/user-attachments/assets/ffd44ff2-4bca-4434-814a-d52b781be895)
