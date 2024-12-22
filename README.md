@@ -28,6 +28,19 @@ Power consumed by the board alone with no load (idle)
 - 2.76mA @ 3.0V in
 - 3.8mA @ 2.2V in
 
+## Power Output
+
+output range 2.93V - 13.87V  
+output power @ 3.0V in  
+V out without load -> V out with load after @  
+
+- 13.87V loadless -> 13.8V @ 100mA  
+- 12.00V loadless -> 11.8V @ 100 mA  
+- 9.00V loadless -> 8.8V @ 100 mA  
+- 6.0V loadless -> 5.8V @ 100mA  
+- 5.0V loadless -> 4.7V @ 100mA  
+- 3.3V loadless -> 3.0V @ 100mA  
+
 ## PCB
 
 <table>
@@ -40,18 +53,6 @@ Power consumed by the board alone with no load (idle)
     </td>
   </tr>
 </table>
-
-
-out range 2.93V - 13.87V
-
-out power @ 3.0V in
-13.87V loadless -> 13.8V (dropeed to) @ 100mA
-12.00V loadless -> 11.8V @ 100 mA
-9.00V loadless -> 8.8V @ 100 mA
-6.0V loadless -> 5.8V @ 100mA
-5.0V loadless -> 4.7V @ 100mA
-3.3V lodless -> 3.0V @ 100mA
-
 
 ## Schematic
 
