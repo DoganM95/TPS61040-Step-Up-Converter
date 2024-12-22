@@ -2,24 +2,31 @@
 
 Eagle designed PCB for the SOT-23 sized step-up converter IC TPS61040.
 
-## Specs (general)
+## Specs of the IC
 
 - 1.8V - 6V input
 - 1.8V - 28V adj. output Voltage
 - 0.4A output current
 - 28uA quiescent current
 
+## Specs of the PCB (measured)
+
+- 2.2V - 6V input
+- 2.2V - 28V adj. output Voltage
+- 0.4A output current
+- 1.5 - 3.8mA quiescent current
+
 ## Power Consumption 
 
 Power consumed by the board alone with no load (idle)
 
-- 1.48mA @ 6.0V
-- 1.68mA @ 5.0V
-- 1.98mA @ 4.2V
-- 2.10mA @ 4.0V
-- 2.55mA @ 3.3V
-- 2.76mA @ 3.0V
-- 3.8mA @ 2.2V 
+- 1.48mA @ 6.0V in
+- 1.68mA @ 5.0V in
+- 1.98mA @ 4.2V in
+- 2.10mA @ 4.0V in
+- 2.55mA @ 3.3V in
+- 2.76mA @ 3.0V in
+- 3.8mA @ 2.2V in
 
 ## PCB
 
