@@ -42,16 +42,16 @@ V out without load -> V out with load after @
 
 ## BOM
 
-- C_FF: 0603 22pF
-- C_IN: 0603 4.7uF
-- C_O: 0603 1nF
-- D1: any Schottky between SS14 & SS54
-- EN_J: join if board should be always on -> EN becomes redundant
-- L1: CD43 10uF
-- R1: 0603 up to 1MOhm, use if VR1 is unnecessary and needed resstance is known
-- R2: 0603 100kOhm
-- U1: SOT23-5 TPS61040
-- VR1: 3x3 trimpot 1MOhm, sets output voltage by adjusting its resistance
+- `C_FF`: 0603 22pF
+- `C_IN`: 0603 4.7uF
+- `C_O`: 0603 1nF
+- `D1`: any Schottky between SS14 & SS54
+- `EN_J`: join if board should be always on -> EN becomes redundant
+- `L1`: CD43 10uF
+- `R1`: 0603 up to 1MOhm, use if VR1 is unnecessary and needed resstance is known
+- `R2`: 0603 100kOhm
+- `U1`: SOT23-5 TPS61040
+- `VR1`: 3x3 trimpot 1MOhm, sets output voltage by adjusting its resistance
 
 ## PCB
 
