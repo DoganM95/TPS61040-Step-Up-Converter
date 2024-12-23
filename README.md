@@ -40,6 +40,17 @@ V out without load -> V out with load after @
 - 5.0V loadless -> 4.7V @ 100mA  
 - 3.3V loadless -> 3.0V @ 100mA  
 
+## BOM
+
+- VR1: 3x3 trimpot 1MOhm
+- R2: 0603 100kOhm
+- C_FF: 0603 22pF
+- L1: CD43 10uF
+- C_O: 0603 1nF
+- U1: SOT23-5 TPS61040
+- D1: any Schottky between SS14 & SS54
+- C_IN: 0603 4.7uF
+
 ## PCB
 
 <table>
@@ -56,4 +67,3 @@ V out without load -> V out with load after @
 ## Schematic
 
 ![image](https://github.com/user-attachments/assets/ffd44ff2-4bca-4434-814a-d52b781be895)
-
