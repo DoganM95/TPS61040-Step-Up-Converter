@@ -56,14 +56,14 @@ V out without load -> V out with load after @
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/261a03f8-a712-4b88-8605-55cf0568de2d" alt="PCB Top View"/>
+      <img src="https://github.com/user-attachments/assets/31651223-e9b4-47c7-9ef5-5136ddd4020e" alt="PCB Top View"/>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/73cf3478-eedc-4b59-91a0-4b0301820461" alt="PCB Bottom View"/>
+      <img src="https://github.com/user-attachments/assets/234b297c-94e8-4f43-a435-858336d23dcf" alt="PCB Bottom View"/>
     </td>
   </tr>
 </table>
 
 ## Schematic
 
-![image](https://github.com/user-attachments/assets/ffd44ff2-4bca-4434-814a-d52b781be895)
+![image](https://github.com/user-attachments/assets/afcf28a0-c3f1-46bf-a150-96de484e08ad)
