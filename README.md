@@ -1,6 +1,6 @@
 # Intro
 
-Step-Up converter module using TPS61040, ideal to boost a single li-ion cell (typically 3.0V - 4.2V) to up to 28V, to power any device that does not need lots of current, but requires a very low quiescent current to ensure the battery is not drained, when there is no load.
+Step-Up converter module using TPS61040, ideal to boost a single li-ion cell (typically 2.5V - 4.2V) to up to 28V, to power any device that does not need lots of current, but requires a very low quiescent current to ensure the battery is not drained, when there is no load.
 
 ## Specs of the IC
 
